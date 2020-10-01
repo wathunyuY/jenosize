@@ -28,6 +28,13 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Config Google Key Api
+
+Please replace google api key in API_KEY of the config.env file.
+```bash
+$ GOOGLE_KEY=API_KEY
+```
+
 ## Installation
 
 ```bash
