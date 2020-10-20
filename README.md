@@ -72,6 +72,7 @@ $ npm run test:cov
 ```bash
 $ docker-compose -f "docker-compose.yml" up -d --build
 ```
+Go to [localhost:8080](http://localhost:8080/) for testing.
 
 ## Support
 
